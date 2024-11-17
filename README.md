@@ -13,7 +13,8 @@
 ## ✨Skills
 
 ### 💬Programming Languages
-<img src="https://img.shields.io/badge/Java-00629B?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Java-00629B?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFF">
 </br>
 
