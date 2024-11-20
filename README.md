@@ -83,7 +83,7 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
 ## 🖥️GitHub Stats
-![Hyobin Sung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellmir&show_icons=true&theme=light)
+![Hyobin Sung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellmir&theme=dark&show_icons=true)
 
 ## ✒️Most Used Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellmir&layout=compact&theme=light)
