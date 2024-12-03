@@ -3,10 +3,7 @@
 </br>
 
 ## 📫 Contact
-<img src="https://img.shields.io/badge/📞 010--2153--6169-brightgreen?style=flat-square&logo=" /> <a href="https://hellmir.tistory.com" style="display: inline" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white" />
-</a>
-<a href="mailto:hellmir610@gmail.com" style="display: inline" target="_blank">
+<img src="https://img.shields.io/badge/📞 010--2153--6169-brightgreen?style=flat-square&logo=" /> <a href="mailto:hellmir610@gmail.com" style="display: inline" target="_blank">
     <img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
@@ -63,9 +60,9 @@
 ### 🗄️Database
 <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/H2-8D1F89?style=for-the-badge&logo=rxdb&logoColor=white">
 </br>
