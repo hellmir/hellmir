@@ -81,7 +81,7 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
 ## 🖥️GitHub Stats
-![Hyobin Sung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellmir&theme=dark&show_icons=true)
+![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d68656c6c6d6972267468656d653d6461726b2673686f775f69636f6e733d74727565](https://github.com/user-attachments/assets/361c606c-1b58-47d9-b910-1ed039e04abe)
 
 ## ✒️Most Used Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellmir&layout=compact&theme=light)
