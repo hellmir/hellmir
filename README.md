@@ -38,7 +38,7 @@
 
 #### 🧪Test
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/> <img src="https://img.shields.io/badge/AssertJ-0C2340?style=for-the-badge&logo=maserati&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mockito-FF6A33?style=for-the-badge&logo=mockserviceworker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mockito-FF6A33?style=for-the-badge&logo=mockserviceworker&logoColor=white"/><img src="https://img.shields.io/badge/JaCoCo-55C2E1?style=for-the-badge&logo=cocos&logoColor=white"/>
 
 ### 🛠️Server
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
