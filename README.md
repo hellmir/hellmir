@@ -68,12 +68,12 @@
 </br>
 
 ### 🏗️Tooling/Environment
-<img src="https://img.shields.io/badge/EditPlus-4285F4.svg?style=for-the-badge&logo=pluscodes&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white">
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
+<img src="https://img.shields.io/badge/EditPlus-4285F4.svg?style=for-the-badge&logo=pluscodes&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ_Idea-000020.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/VS_Code-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white">
-<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white">
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </br>
 
 ### 👫Collaboration
