@@ -5,6 +5,8 @@
 ## 📫 Contact
 <img src="https://img.shields.io/badge/📞 010--2153--6169-brightgreen?style=flat-square&logo=" /> <a href="mailto:hellmir610@gmail.com" style="display: inline" target="_blank">
     <img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <a href="https://hyobin-jenkins.duckdns.org" style="display: inline" target="_blank">
+    <img src="https://img.shields.io/badge/Pipeline-F7DF1E?style=flat-square&logo=jenkins&logoColor=black" />
 </a>
 
 ## ✨Skills
@@ -12,7 +14,8 @@
 ### 💬Programming Languages
 <img src="https://img.shields.io/badge/Java-00629B?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=black">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFF">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFF">
+<img src="https://img.shields.io/badge/Python-FE0803?style=for-the-badge&logo=python&logoColor=FFF">
 </br>
 
 ### 📚Framework/Library
@@ -31,10 +34,14 @@
 <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/MyBatis-EF5734?style=for-the-badge&logo=bower&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket_IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
 </br>
+
+#### 🧠AI
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 
 #### 🧪Test
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/> <img src="https://img.shields.io/badge/AssertJ-0C2340?style=for-the-badge&logo=maserati&logoColor=white"/>
@@ -43,8 +50,8 @@
 ### 🛠️Server
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
 <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/NCP-03C75A?style=for-the-badge&logo=naver&logoColor=black">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 </br>
 
 ### 🗼DevOps
