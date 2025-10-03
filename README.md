@@ -52,7 +52,8 @@
 <img src="https://img.shields.io/badge/Mockito-FF6A33?style=for-the-badge&logo=mockserviceworker&logoColor=white"/><img src="https://img.shields.io/badge/JaCoCo-55C2E1?style=for-the-badge&logo=cocos&logoColor=white"/>
 
 ### 🛠️Server
-<img src="https://img.shields.io/badge/AWS EKS-E31337?style=for-the-badge&logo=hive&logoColor=white"> <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=hive&logoColor=white">
+<img src="https://img.shields.io/badge/AWS EKS-E31337?style=for-the-badge&logo=hive&logoColor=white"> <img src="https://img.shields.io/badge/AWS ECS-F8DC75?style=for-the-badge&logo=hive&logoColor=white">
+<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=hive&logoColor=white">
 <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=hive&logoColor=white">
 <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=hive&logoColor=white">
 <img src="https://img.shields.io/badge/NCP-03C75A?style=for-the-badge&logo=naver&logoColor=black">
