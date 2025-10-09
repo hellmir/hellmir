@@ -20,6 +20,17 @@
 
 ### 📚Framework/Library
 
+#### 👇🏻Backend
+<img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nest JS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/MyBatis-EF5734?style=for-the-badge&logo=bower&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket_IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+</br>
+
 #### 👆🏻Frontend
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/React_Native-09D3AC?style=for-the-badge&logo=createreactapp&logoColor=black">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
@@ -31,17 +42,6 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/Swing-000000?style=for-the-badge&logo=openjdk&logoColor=white">
-</br>
-
-#### 👇🏻Backend
-<img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nest JS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/MyBatis-EF5734?style=for-the-badge&logo=bower&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket_IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
 </br>
 
 #### 🧠AI
