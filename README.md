@@ -53,6 +53,7 @@
 
 ### 🛠️Server
 <img src="https://img.shields.io/badge/AWS EKS-E31337?style=for-the-badge&logo=hive&logoColor=white"> <img src="https://img.shields.io/badge/AWS ECS-F8DC75?style=for-the-badge&logo=hive&logoColor=white">
+<img src="https://img.shields.io/badge/AWS ELB-041E42?style=for-the-badge&logo=hive&logoColor=white">
 <img src="https://img.shields.io/badge/AWS ECR-005E9D?style=for-the-badge&logo=hive&logoColor=white">
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=hive&logoColor=white">
 <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=hive&logoColor=white">
