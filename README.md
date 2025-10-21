@@ -94,6 +94,7 @@
 <img src="https://img.shields.io/badge/EditPlus-4285F4.svg?style=for-the-badge&logo=pluscodes&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ_Idea-000020.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img src="https://img.shields.io/badge/CursorAI-F16436?style=for-the-badge&logo=cursorai&logoColor=white">
 <img src="https://img.shields.io/badge/VS_Code-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white">
 </br>
 
