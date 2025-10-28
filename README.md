@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/MyBatis-EF5734?style=for-the-badge&logo=bower&logoColor=white"/>
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket_IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
 </br>
 
