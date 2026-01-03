@@ -108,7 +108,7 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
 ## 🖥️GitHub Stats
-![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d68656c6c6d6972267468656d653d6461726b2673686f775f69636f6e733d72527165](https://github.com/user-attachments/assets/4efb13e5-488b-47d6-ace2-604eeec57c9b)
+![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d68656c6c6d6972267468656d653d6461726b2673686f775f69636f6e733d72527165](https://github.com/user-attachments/assets/8f8d4ae1-623c-4c34-9f14-e6beb9085b9a)
 
 ## ✒️Most Used Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellmir&layout=compact&theme=light)
