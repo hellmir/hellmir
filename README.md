@@ -82,8 +82,8 @@
 <img src="https://img.shields.io/badge/H2-8D1F89?style=for-the-badge&logo=rxdb&logoColor=white">
 </br>
 
-### 🏗️Automation
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+### 🏗️Productivity
+<img src="https://img.shields.io/badge/Harness Engineering-40FEA0?style=for-the-badge&logo=charles&logoColor=white"> <img src="https://img.shields.io/badge/Claude Code-D97757?style=for-the-badge&logo=claude-code&logoColor=white">
 </br>
 
 ### 👫Collaboration
@@ -91,7 +91,7 @@
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white">
 
 ## 🖥️GitHub Stats
-![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d68656c6c6d6972267468656d653d6461726b2673686f775f69636f6e733d72527165](https://github.com/user-attachments/assets/8f8d4ae1-623c-4c34-9f14-e6beb9085b9a)
+![Hyobin Sung's GitHub Stats](https://github-stats-extended.vercel.app/api?username=hellmir&theme=dark&show_icons=true&hide=contribs)
 
 ## ✒️Most Used Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellmir&layout=compact&theme=light)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=hellmir&layout=compact&theme=light)
